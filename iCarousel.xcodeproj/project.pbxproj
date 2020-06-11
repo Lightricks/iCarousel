@@ -170,10 +170,11 @@
 			};
 			buildConfigurationList = 821507251E57468200C75711 /* Build configuration list for PBXProject "iCarousel" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 821507211E57468200C75711;
 			productRefGroup = 8215072C1E57468200C75711 /* Products */;
